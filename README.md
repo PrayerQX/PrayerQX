@@ -72,11 +72,6 @@ A computer vision project for garbage recognition and classification, built as a
 ## GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrayerQX&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrayerQX&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=PrayerQX&theme=transparent&hide_border=true" alt="GitHub streak" />
 </div>
 
