@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Focused on OCR workflows, document structure recovery, and practical PDF-to-Markdown conversion.
+  Building OCR and PDF-to-Markdown tools that preserve layout, tables, formulas, and reading order for search, RAG, and knowledge workflows.
 </p>
 
 <p align="center">
@@ -20,17 +20,18 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown" alt="Markdown" />
 </p>
 
-## About Me
+## What I Build
 
-I am currently focused on OCR, document parsing, and structure-aware PDF processing.
-My recent work is mainly around making PDF-to-Markdown outputs more usable for search, RAG pipelines, knowledge bases, and downstream automation.
+- OCR pipelines for scanned and born-digital PDFs
+- Structure-aware PDF to Markdown conversion
+- Document recovery for titles, tables, formulas, images, and reading order
+- Practical computer vision tools with usable interfaces and outputs
 
-## Current Focus
+## Value
 
-- OCR and PDF text extraction
-- Document layout analysis and structure recovery
-- Table, formula, image, and reading-order preservation
-- Practical computer vision projects built around real workflows
+- Less manual cleanup after PDF parsing
+- More reliable document outputs for search and RAG
+- Better structure recovery on complex real-world files
 
 ## Tech Stack
 
@@ -71,12 +72,6 @@ A PPStructureV3-based PDF to Markdown project focused on recovering titles, tabl
 `Python` `YOLOv5` `Computer Vision`
 
 A computer vision project for garbage recognition and classification, built as a practical image understanding workflow.
-
-## What I Care About
-
-- Building usable tools instead of demo-only outputs
-- Turning unstructured documents into structured data
-- Keeping conversion results reliable enough for downstream systems
 
 ## GitHub Activity
 
