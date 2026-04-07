@@ -5,10 +5,6 @@
 <h1 align="center">PrayerQX</h1>
 
 <p align="center">
-  <strong>Python | OCR | Document Parsing | PDF to Markdown</strong>
-</p>
-
-<p align="center">
   Building OCR and PDF-to-Markdown tools that preserve layout, tables, formulas, and reading order for search, RAG, and knowledge workflows.
 </p>
 
