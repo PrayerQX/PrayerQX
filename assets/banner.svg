@@ -1,0 +1,48 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">PrayerQX GitHub Profile Banner</title>
+  <desc id="desc">A clean banner for a GitHub profile focused on OCR, document parsing, and PDF to Markdown.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="176" y1="72" x2="1110" y2="248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="blur" x="824" y="-36" width="376" height="376" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+
+  <g opacity="0.35">
+    <path d="M0 248C110 220 178 210 286 218C391 225 482 272 580 270C679 268 754 214 855 201C973 185 1074 220 1280 285V320H0V248Z" fill="#0B1220"/>
+    <path d="M0 198C121 159 218 153 332 172C447 192 527 244 631 244C742 244 833 175 953 161C1060 149 1158 185 1280 230V320H0V198Z" fill="#0A1020"/>
+  </g>
+
+  <g filter="url(#blur)" opacity="0.55">
+    <circle cx="1012" cy="152" r="132" fill="#38BDF8"/>
+  </g>
+
+  <rect x="72" y="72" width="150" height="150" rx="24" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
+  <path d="M112 116H183C191.837 116 199 123.163 199 132V164C199 172.837 191.837 180 183 180H167L146 201V180H112C103.163 180 96 172.837 96 164V132C96 123.163 103.163 116 112 116Z" fill="url(#accent)"/>
+  <circle cx="124" cy="148" r="8" fill="#0F172A"/>
+  <circle cx="148" cy="148" r="8" fill="#0F172A"/>
+  <circle cx="172" cy="148" r="8" fill="#0F172A"/>
+
+  <text x="264" y="128" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">PrayerQX</text>
+  <text x="264" y="172" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="22">OCR | Document Parsing | PDF to Markdown</text>
+  <text x="264" y="214" fill="#D1D5DB" font-family="Segoe UI, Arial, sans-serif" font-size="20">Building structure-aware tools for usable document conversion.</text>
+
+  <rect x="264" y="240" width="166" height="34" rx="17" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.14)"/>
+  <rect x="444" y="240" width="186" height="34" rx="17" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.14)"/>
+  <rect x="644" y="240" width="160" height="34" rx="17" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.14)"/>
+
+  <text x="288" y="262" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="16">PPStructureV3</text>
+  <text x="470" y="262" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="16">Layout Recovery</text>
+  <text x="675" y="262" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="16">OCR Workflows</text>
+</svg>
