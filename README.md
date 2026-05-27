@@ -4,6 +4,10 @@
 
 <h1 align="center">PrayerQX</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Image+Understanding+%7C+OCR+%7C+Document+AI;PDF-to-Markdown+%7C+RAG+Data+Pipeline;Data+Engineering+for+Multimodal+Models" alt="Typing SVG" />
+</div>
+
 <p align="center">
   图像理解 · OCR · 文档解析 · PDF-to-Markdown · 多模态数据工程
 </p>
@@ -62,6 +66,10 @@
   <img src="https://streak-stats.demolab.com?user=PrayerQX&theme=transparent&hide_border=true" alt="GitHub streak" />
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrayerQX&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PrayerQX/PrayerQX/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </div>
 
 ## 我的工程信条
