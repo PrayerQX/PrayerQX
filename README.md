@@ -59,12 +59,7 @@
 ## GitHub 数据
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrayerQX&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrayerQX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <br />
   <img src="https://streak-stats.demolab.com?user=PrayerQX&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrayerQX&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </div>
 
 <div align="center">
