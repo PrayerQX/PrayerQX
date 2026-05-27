@@ -26,10 +26,6 @@
   <img src="https://img.shields.io/badge/Data%20Engineering-EA580C?style=flat-square" alt="Data Engineering" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrayerQX&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub profile trophies" />
-</div>
-
 ## 关于我
 
 - **目前专注**：图像理解、OCR、文档解析、PDF-to-Markdown、表格/图表结构化，以及面向 RAG 和知识库的数据处理流程。
