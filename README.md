@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/Data%20Engineering-EA580C?style=flat-square" alt="Data Engineering" />
 </p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrayerQX&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub profile trophies" />
+</div>
+
 ## 关于我
 
 - **目前专注**：图像理解、OCR、文档解析、PDF-to-Markdown、表格/图表结构化，以及面向 RAG 和知识库的数据处理流程。
@@ -59,13 +63,12 @@
 ## GitHub 数据
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrayerQX&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrayerQX&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrayerQX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrayerQX&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=PrayerQX&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=PrayerQX&theme=transparent&hide_border=true" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrayerQX&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrayerQX&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </div>
 
 <div align="center">
