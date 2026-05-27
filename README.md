@@ -62,10 +62,6 @@
   <img src="https://streak-stats.demolab.com?user=PrayerQX&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PrayerQX/PrayerQX/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</div>
-
 ## 我的工程信条
 
 ```python
